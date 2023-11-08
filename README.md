@@ -28,9 +28,11 @@
 
 
 С помощью решетчатого поиска GridSearchCV при кросс-валидации с разбиением на 5  частей найдем наилучшую модель, используя решетку, состояющую из алгоритмов предобработки, моделей и параметров моделей 
+
 ![image](https://github.com/isponezeroone/price_prediction/assets/79075449/ca927aeb-0f53-4b06-b678-5b127c9968c8)
 
 Рис 2. Решетка параметров решетчатого поиска для Ridge и Lasso алгоритмов.
+
 ![image](https://github.com/isponezeroone/price_prediction/assets/79075449/77725123-d917-4c9d-a558-717bf7b01b61)
 
 
